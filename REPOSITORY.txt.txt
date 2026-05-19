@@ -1,0 +1,8 @@
+Project: Cafe Handler Management System
+Developer: Muhammad Umair Khan
+GitHub: https://github.com/MUmairKhan41/CafeHandler
+Course: Visual Programming (CS-412)
+
+Description:
+A Windows Forms desktop application built in C# .NET for managing
+cafe operations including orders, menu, users, and sales reports.
